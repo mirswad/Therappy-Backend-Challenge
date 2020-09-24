@@ -69,3 +69,16 @@ Tasks
 [Q]: https://github.com/kriskowal/q
 [bacon.js]: https://github.com/baconjs/bacon.js
 [RxJs]: https://github.com/Reactive-Extensions/RxJS
+
+Submission Instructions
+--
+
+1. Clone the repository to your own
+2. Solve the test on your clone
+3. Remember to make meaningful commits (This will be part of your assessment)
+4. Share the link to the repository of your solved test with taimur@therappyapp.com before 11:59 pm on Saturday (26th September 2020)
+
+Technical issues?
+--
+Only technical issues will be entertained. No hints or problem solving help will be provided.
+Contact taimur@therappyapp.com
